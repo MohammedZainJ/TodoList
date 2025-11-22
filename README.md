@@ -30,7 +30,7 @@ TodoList/
 
 ## 📸 Screenshots
 
-<img width="850" height="804" alt="image" src="https://github.com/user-attachments/assets/0c388a8c-af89-4e48-abe0-72f810aa3d08" />
+<img width="750" height="704" alt="image" src="https://github.com/user-attachments/assets/0c388a8c-af89-4e48-abe0-72f810aa3d08" />
 
 ## 🔧 How to Run This Project
 
